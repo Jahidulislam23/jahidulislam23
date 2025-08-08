@@ -5,7 +5,7 @@
 ### 🚀 Frontend Developer | Creating Modern, Responsive, and User-Friendly Web Experiences  
 
 📞 **Contact:** +88010714224123  
-📧 **Email:** [jahidil110j@gmail.com](mailto:jahidul110j@gmail.com)  
+📧 **Email:** [jahidul110j@gmail.com](mailto:jahidul110j@gmail.com)  
 
 ---
 
