@@ -22,6 +22,12 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Technologies Used
+- React.js
+- Node.js
+- MongoDB
+- Tailwind CSS
+
 **Tools & Hosting:**
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahidulislam23)  
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://console.firebase.google.com/?_gl=1*1fwhzlg*_ga*NjQ3ODUyNjAxLjE3NDU2NDgyNDY.*_ga_CW55HF8NVT*czE3NTQ2MzUyMDMkbzYxJGcxJHQxNzU0NjM1MjIxJGo0MiRsMCRoMA..)  
@@ -37,6 +43,9 @@ I focus on delivering **respons-perfect designs**, **smooth animations**, and **
 Currently, I’m also learning **advanced React patterns, Next.js, and performance optimization** to take my skills to the next level.
 
 ---
+
+## Live Demo
+[Live Site](https://frolicking-jalebi-41d3d3.netlify.app/)
 
 ## 💼 Featured Projects
 - **🌍 Travel & Tourism Guide App** – MERN stack app with booking, payment, and role-based dashboards.  
@@ -60,6 +69,7 @@ Currently, I’m also learning **advanced React patterns, Next.js, and performan
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahidulislam23)
 [![Email](https://img.shields.io/badge/Email-jahidul110j%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidul110j@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+88010714224123-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/88010714224123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidul-islam-431413379)
 
 
 
