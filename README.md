@@ -23,10 +23,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Hosting:**
-![Git](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Jahidulislam23)
-![Firebase](https://console.firebase.google.com/?_gl=1*1fwhzlg*_ga*NjQ3ODUyNjAxLjE3NDU2NDgyNDY.*_ga_CW55HF8NVT*czE3NTQ2MzUyMDMkbzYxJGcxJHQxNzU0NjM1MjIxJGo0MiRsMCRoMA..)
-![Netlify](https://app.netlify.com/teams/jahidulislam23/projects)
-![Vercel](https://vercel.com/jahidulislam23s-projects)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahidulislam23)  
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://console.firebase.google.com/?_gl=1*1fwhzlg*_ga*NjQ3ODUyNjAxLjE3NDU2NDgyNDY.*_ga_CW55HF8NVT*czE3NTQ2MzUyMDMkbzYxJGcxJHQxNzU0NjM1MjIxJGo0MiRsMCRoMA..)  
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/jahidulislam23/projects)  
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/jahidulislam23s-projects)
+
 
 ---
 
