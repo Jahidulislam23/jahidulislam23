@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm jahidul islam</h1>
 <h3 align="center">Specializing in building modern, responsive, and user-friendly web interfaces using React, with a strong focus on smooth animations, seamless interactions, and performance-driven design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidulislam23" alt="jahidulislam23" /></a> </p>
-
 - 🔭 I’m currently working on [Tour](https://assignment-12-d0654.web.app)
 
 - 🌱 I’m currently learning **Note.js Framework**
