@@ -5,7 +5,7 @@
 ### 🚀 Frontend Developer | Creating Modern, Responsive, and User-Friendly Web Experiences  
 
 📞 **Contact:** +88010714224123  
-📧 **Email:** [jahidil110j@gmail.com](mailto:jahidil110j@gmail.com)  
+📧 **Email:** [jahidil110j@gmail.com](mailto:jahidul110j@gmail.com)  
 
 ---
 
@@ -58,7 +58,7 @@ Currently, I’m also learning **advanced React patterns, Next.js, and performan
 
 ## 🌐 Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jahidulislam23)
-[![Email](https://img.shields.io/badge/Email-jahidil110j%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidil110j@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jahidul110j%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidul110j@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+88010714224123-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/88010714224123)
 
 
